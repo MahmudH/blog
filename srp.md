@@ -1,4 +1,4 @@
-# SRP_blogpost
+# Single Responsibility Principle
 
 A blog post by Mahmud and Ivan
 
